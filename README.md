@@ -1,4 +1,4 @@
-volumetric
+volumetrics
 ==========
 
-volumetric scripts
+scripts for evaluating volumetric data
